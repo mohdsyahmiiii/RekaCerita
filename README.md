@@ -4,7 +4,7 @@
 
 RekaCerita (meaning "Story Design" in Malay) is a comprehensive content management platform that combines powerful functionality with beautiful, modern design. Built with Laravel and featuring a custom design system, it provides everything you need to create, manage, and share digital stories.
 
-![RekaCerita Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=RekaCerita+Modern+Blog+Platform)
+![App Screenshot](public/images/preview.png)
 
 ## ✨ Key Highlights
 
@@ -305,13 +305,13 @@ Please follow the existing code style and structure when submitting pull request
 ## 📸 Screenshots
 
 ### Modern Homepage
-![Homepage](https://via.placeholder.com/600x400/2563eb/ffffff?text=Modern+Hero+Section)
+![Homepage](public/images/preview.png)
 
 ### Enhanced Dashboard
-![Dashboard](https://via.placeholder.com/600x400/16a34a/ffffff?text=Beautiful+Dashboard)
+![Dashboard](public/images/dashboard.png)
 
 ### Blog Interface
-![Blog](https://via.placeholder.com/600x400/f59e0b/ffffff?text=Modern+Blog+Cards)
+![Blog](public/images/blog.png)
 
 ## 🚀 Deployment
 
